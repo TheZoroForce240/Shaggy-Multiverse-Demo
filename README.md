@@ -1,6 +1,6 @@
 # Shaggy Multiverse Demo
 
-Demo source for Vs Shaggy Multiverse, a fan-made spinoff of the original Vs Shaggy mod by srPerez.
+Demo source for [Vs Shaggy Multiverse](https://gamebanana.com/mods/419977), a fan-made spinoff of the original [Vs Shaggy](https://gamejolt.com/games/fnf-shaggy/643999) mod by srPerez.
 
 This is the first mod using a wip modchart framework that ive been working on, source for that can be found [here](https://github.com/TheZoroForce240/FNF-Modcharting-Tools)
 
