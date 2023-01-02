@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				350
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ConquerShag_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				310
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ConquerShag_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				299
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ConquerShag_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				243
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ConquerShag_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				402
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ConquerShag_Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MutatedShaggy",
+	"position": [
+		100,
+		370
+	],
+	"healthicon": "SmutatedIcon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		120,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

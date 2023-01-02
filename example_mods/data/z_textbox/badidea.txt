@@ -1,0 +1,12 @@
+shsc:zoinks:1:ZOINKS! A G-G-GHOST!
+bf:normal:-1:Bap?
+shsc:talk2:1:Wait.
+shsc:talk:1:You're not a ghost?
+bf:normal:-1:beep
+shsc:talk2:1:A rap battle?
+shsc:nerv:1:Alright man, you're on.
+shsc:talk:1:Oh! and one more thing man
+shsc:talk2:1:Don't say the opposite word of good
+bf:normal:-1:Beep?
+shsc:talk:1:Like I've been hypnotized so I'm just warning#you
+shsc:talk2:1:Alright lets rock!

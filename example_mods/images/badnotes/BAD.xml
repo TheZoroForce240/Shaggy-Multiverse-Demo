@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BAD.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="4" y="4" width="166" height="178"/>
+	<SubTexture name="B0000" x="174" y="4" width="164" height="180"/>
+	<SubTexture name="C0000" x="4" y="188" width="225" height="192"/>
+	<SubTexture name="D0000" x="233" y="188" width="185" height="168"/>
+</TextureAtlas>

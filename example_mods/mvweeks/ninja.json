@@ -1,0 +1,33 @@
+{
+	"storyName": "The Hokage",
+	"difficulties": "Mania, Canon",
+	"hideFreeplay": false,
+	"weekBackground": "menustagedesert",
+	"weekBefore": "mutated",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"new-state",
+			"sninjaicon",
+			[
+				226,
+				35,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"ninja",
+		"",
+		""
+	],
+	"hideStorymode": false,
+	"weekName": "ninja",
+	"hiddenUntilUnlocked": false
+}

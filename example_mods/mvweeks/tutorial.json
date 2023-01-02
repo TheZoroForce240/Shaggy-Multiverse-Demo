@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "Canon",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Resistance",
+			"ShaggyPlus",
+			[
+				0,
+				100,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "SMV-Tutorial",
+	"hiddenUntilUnlocked": false
+}

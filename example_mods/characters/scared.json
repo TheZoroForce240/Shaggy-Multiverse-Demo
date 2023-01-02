@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				407
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Scared_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				431
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Scared_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				420
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Scared_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				480
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Scared_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				402
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Scared_Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ScaredShaggy",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pog",
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		148,
+		21
+	],
+	"camera_position": [
+		120,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

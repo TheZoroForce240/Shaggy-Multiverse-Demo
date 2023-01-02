@@ -1,0 +1,18 @@
+bf:normal:-1:Bap!
+tir:tir:1:Rap Battle?
+tir:ups:1:Pass.
+bf:a:-1:?!
+tir:ann:1:I said pass man.
+tir:ann:1:I don't really wanna, like, fight anymore
+tir:hope:1:just not for me
+bf:normal:-1:Beeep?
+tir:ann:1:No.
+bf:normal:-1:Beep Bap?
+tir:ann:1:No.
+bf:normal:-1:Beep Bap Bop?
+tir:ups:1:Ugh.
+tir:reg:1:Fine.
+tir:tir:1:I'll do it as long as you leave me alone#afterwards
+bf:normal:-1:beep!
+tir:tir:1:Okay.
+tir:ann:1:Lets get this over with.

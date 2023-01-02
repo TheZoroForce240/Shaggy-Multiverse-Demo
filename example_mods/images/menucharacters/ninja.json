@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Dad Idle",
+	"image": "menucharacterninja",
+	"position": [
+		480,
+		250
+	],
+	"flipX": false,
+	"scale": 0.66,
+	"confirm_anim": "M Dad Idle"
+}

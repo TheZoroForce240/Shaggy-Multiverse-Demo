@@ -1,0 +1,3 @@
+shbad:talk1:1:Wow man you really rocked
+bf:normal:-1:Bap
+shbad:bye:1:Ok then see you later

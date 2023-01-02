@@ -1,0 +1,4 @@
+nin:talk2:1:wow that was great!
+bf:normal:-1:Bap!
+nin:tease:1:you want me to use 0.01% of my#power again?
+nin:flip:1:sure! Check this out!

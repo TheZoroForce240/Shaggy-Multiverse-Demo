@@ -1,0 +1,33 @@
+{
+	"storyName": "The Depressed",
+	"difficulties": "Mania, Canon",
+	"hideFreeplay": false,
+	"weekBackground": "menustagetired",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Adagio",
+			"sadshaggy",
+			[
+				30,
+				80,
+				50
+			]
+		]
+	],
+	"weekCharacters": [
+		"tired",
+		"",
+		""
+	],
+	"hideStorymode": false,
+	"weekName": "tired",
+	"hiddenUntilUnlocked": false
+}

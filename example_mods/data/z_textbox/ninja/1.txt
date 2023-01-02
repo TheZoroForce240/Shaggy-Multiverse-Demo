@@ -1,0 +1,10 @@
+nin:talk:1:Long time no see man!
+bf:normal:-1:bep?
+nin:talk2:1:Like you don't remember me?
+nin:talk2:1:A year ago your girlfriend tried to kill scoob
+bf:normal:-1:...
+nin:talk2:1:Don't worry man I'm not upset
+nin:flip:1:im now learning the ways of the ninja!
+bf:normal:-1:Bap!
+nin:tease:1:you want me to show you my new moves?
+nin:talk:1:ok! Here we go!

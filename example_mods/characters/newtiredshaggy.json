@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				377
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NewTiredShaggy_idle"
+		},
+		{
+			"offsets": [
+				-19,
+				377
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NewTiredShaggy_right"
+		},
+		{
+			"offsets": [
+				-2,
+				378
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NewTiredShaggy_down"
+		},
+		{
+			"offsets": [
+				-5,
+				389
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NewTiredShaggy_up"
+		},
+		{
+			"offsets": [
+				4,
+				375
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NewTiredShaggy_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TiredShaggy",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "sadshaggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		77,
+		50
+	],
+	"camera_position": [
+		120,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

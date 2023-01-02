@@ -1,0 +1,33 @@
+{
+	"storyName": "The Fusion",
+	"difficulties": "Mania, Canon",
+	"hideFreeplay": false,
+	"weekBackground": "fusionstage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Resplandor",
+			"Fusion2",
+			[
+				250,
+				130,
+				10
+			]
+		]
+	],
+	"weekCharacters": [
+		"fusion",
+		"",
+		""
+	],
+	"hideStorymode": false,
+	"weekName": "fusion",
+	"hiddenUntilUnlocked": false
+}

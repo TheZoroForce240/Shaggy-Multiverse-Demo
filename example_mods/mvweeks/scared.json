@@ -1,0 +1,33 @@
+{
+	"storyName": "The Hypnotized",
+	"difficulties": "Mania, Canon",
+	"hideFreeplay": false,
+	"weekBackground": "menustagescared",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "ninja",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bad Idea",
+			"pog",
+			[
+				30,
+				100,
+				30
+			]
+		]
+	],
+	"weekCharacters": [
+		"scared",
+		"",
+		""
+	],
+	"hideStorymode": false,
+	"weekName": "scared",
+	"hiddenUntilUnlocked": false
+}

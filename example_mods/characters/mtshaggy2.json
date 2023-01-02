@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				405
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "possessedshag",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				405
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "possessedshag_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				405
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "possessedshag_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				405
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "possessedshag_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				405
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "possessedshag_down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MutatedShaggy2",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		120,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

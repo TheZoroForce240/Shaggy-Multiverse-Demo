@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				390
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ninja_idle"
+		},
+		{
+			"offsets": [
+				84,
+				389
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ninja_left"
+		},
+		{
+			"offsets": [
+				-22,
+				359
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ninja_right"
+		},
+		{
+			"offsets": [
+				16,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ninja_down"
+		},
+		{
+			"offsets": [
+				135,
+				366
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ninja_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ninjashaggy",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "SninjaIcon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		165,
+		80
+	],
+	"camera_position": [
+		120,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,33 @@
+{
+	"storyName": "The Husk",
+	"difficulties": "Mania, Canon",
+	"hideFreeplay": false,
+	"weekBackground": "mutated",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tired",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ultra Instinct",
+			"SmutatedIcon",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"mutated",
+		"",
+		""
+	],
+	"hideStorymode": false,
+	"weekName": "mutated",
+	"hiddenUntilUnlocked": false
+}
